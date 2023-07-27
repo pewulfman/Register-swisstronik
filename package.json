@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Pierre-Emmanuel Wulfman <github@wulfman.fr>",
+  "github": "https://github.com/pewulfman/Register-swisstronik",
+  "license": "GPL-3.0",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "hardhat": "^2.17.0"
